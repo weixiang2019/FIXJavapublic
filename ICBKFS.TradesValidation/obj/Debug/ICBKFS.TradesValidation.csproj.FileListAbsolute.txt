@@ -1,0 +1,8 @@
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\bin\Debug\ICBKFS.TradesValidation.exe
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\bin\Debug\ICBKFS.TradesValidation.pdb
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\bin\Debug\QuickFix.dll
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\obj\Debug\ICBKFS.TradesValidation.csproj.AssemblyReference.cache
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\obj\Debug\ICBKFS.TradesValidation.csproj.CoreCompileInputs.cache
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\obj\Debug\ICBKFS.T.7B7F0E00.Up2Date
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\obj\Debug\ICBKFS.TradesValidation.exe
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.TradesValidation\obj\Debug\ICBKFS.TradesValidation.pdb
