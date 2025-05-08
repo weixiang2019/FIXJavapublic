@@ -1,0 +1,5 @@
+server: <server_ip>
+port: 1433
+database: TradeLoadstaging
+sourceTable: Trade
+transformFunction: dbo.fn_return_fi_fixMessage
