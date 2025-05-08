@@ -1,0 +1,10 @@
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\bin\Debug\icbcclient.cfg
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\bin\Debug\ICBKFS.ICBCInitiator.exe.config
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\bin\Debug\ICBKFS.ICBCInitiator.exe
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\bin\Debug\ICBKFS.ICBCInitiator.pdb
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\bin\Debug\QuickFix.dll
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\obj\Debug\ICBKFS.ICBCInitiator.csproj.CoreCompileInputs.cache
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\obj\Debug\ICBKFS.ICBCInitiator.exe
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\obj\Debug\ICBKFS.ICBCInitiator.pdb
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\obj\Debug\ICBKFS.ICBCInitiator.csproj.AssemblyReference.cache
+C:\Gitcode\FIX\SourceCode\ICBKFS.Broadridge\ICBKFS.ICBCInitiator\obj\Debug\ICBKFS.I.32E1ABB3.Up2Date
